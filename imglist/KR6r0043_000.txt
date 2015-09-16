@@ -1,0 +1,4 @@
+001-0220c00	TKD 32-0647a	buddhist/K-koreana/32-tif/0600-0699/32_0647_A.TIF
+001-0220c23	TKD 32-0647b	buddhist/K-koreana/32-tif/0600-0699/32_0647_B.TIF
+000-0221a18	TKD 32-0647c	buddhist/K-koreana/32-tif/0600-0699/32_0647_C.TIF
+000-0221b10	TKD 32-0648a	buddhist/K-koreana/32-tif/0600-0699/32_0648_A.TIF
