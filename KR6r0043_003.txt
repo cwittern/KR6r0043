@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:15.909770
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:12
 #+TITLE: 大唐大慈恩寺三藏法師傳
 #+PROPERTY: CBETA_ID T50n2053
 #+PROPERTY: ID KR6r0043
@@ -17,7 +17,7 @@
 ¶
 沙門慧立本　釋彥悰箋¶
 
-起阿踰陀國終伊爛拏國
+* 起阿踰陀國終伊爛拏國
 :PROPERTIES:
 :head: 起阿踰陀國終伊爛拏國
 :END:
